@@ -2,7 +2,7 @@
 
 ## [learn-nextjs](learn-nextjs)
 
-2020.02.25
+2019.02.25
 
 [Recursed: The Ice Palace](https://recursed-ice-palace.github.io/)의 홈페이지를 만들기 위해 Next.js를 공부했습니다.
 
